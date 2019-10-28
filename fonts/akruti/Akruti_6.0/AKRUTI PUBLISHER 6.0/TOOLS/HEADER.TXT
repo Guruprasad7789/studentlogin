@@ -1,0 +1,21 @@
+<meta http-equiv="Content-Type" content="text/html; charset=x-user-defined">
+<SCRIPT language=JAVASCRIPT>
+if (parseInt(navigator.appVersion) >= 4)
+{
+if (navigator.appName == "Netscape")
+{
+document.write ('<LINK REL=fontdef SRC="akopriex.pfr">')
+}
+else
+{
+document.write ('<STYLE TYPE="text/css">');
+document.write ('@font-face {');
+document.write ('font-family:AkrutiOfficePriyaExpand01'+"\;");
+document.write ('font-style : normal'+"\;");
+document.write ('font-weight: normal'+"\;");
+document.write ('src: url("akopriex.eot")'+"\;");
+document.write ('}');
+document.write ('</STYLE>');
+}
+}
+</SCRIPT>

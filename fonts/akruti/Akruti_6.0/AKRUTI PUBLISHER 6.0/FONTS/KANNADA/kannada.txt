@@ -1,0 +1,17 @@
+Akpdma-b.ttf
+Akpdma-n.ttf
+Akpdmi-b.ttf
+Akpdmi-n.ttf
+Akragi-b.ttf
+Akragi-n.ttf
+Aksuma-n.ttf
+Akuday-n.ttf
+akpdmi-m.ttf
+Aopadm-b.ttf
+Aopadm-m.ttf
+Aopadm-n.ttf
+Aoragi-n.ttf
+Lkpdmi-n.ttf
+Lkpdmi-b.ttf
+Lkpdmi-m.ttf
+lkragi-n.ttf

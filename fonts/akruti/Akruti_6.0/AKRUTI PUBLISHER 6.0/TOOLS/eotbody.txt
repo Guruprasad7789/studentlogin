@@ -1,0 +1,9 @@
+document.write ('<STYLE TYPE="text/css">');
+document.write ('@font-face {');
+document.write ('font-family: RajBhashaR1'+"\;");
+document.write ('font-style : normal'+"\;");
+document.write ('font-weight: normal'+"\;");
+document.write ('src: url("rajbhashar1.eot")'+"\;");
+document.write ('}');
+document.write ('</STYLE>');
+

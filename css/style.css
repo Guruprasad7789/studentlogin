@@ -1,0 +1,204 @@
+
+	@font-face{
+    src:url(../fonts/FFF-Tusj/FFF_Tusj.ttf);
+    font-family:myfont;
+	      }
+body{
+	
+	 }
+body{
+	background-image:url('../image/2.jpg');
+	background-repeat:no-repeat;
+	background-color:black;
+
+}
+#outerdiv{
+	width:100%;
+	
+}
+
+.form{
+
+opacity:0.8;
+}
+.form form{
+	margin-left:20px;
+	font-size:25px;
+	font-family:serif;
+	font-weight:bold;
+    color:#dcdcdc;
+}
+.form form  input:not(.input){
+	width:400px;
+	height:40px;
+	border:2px solid black;
+	font-size:23px;
+	border-radius:10px;
+}
+.form form  select{
+	width:130px;
+	height:30px;
+	border:2px solid black;
+	border-radius:10px;
+}
+.form form  button{
+	margin-left:40px;
+	width:180px;
+	height:40px;
+	border:2px solid black;
+	font-size:20px;
+    border-radius:10px;
+	background-color:#71AFDE;
+    color:white;
+	font-family:serif;
+	font-weight:bold;
+
+}
+
+.form1{
+
+opacity:0.8;
+}
+.form1 form{
+	margin-left:20px;
+	font-size:23px;
+	font-family:serif;
+	font-weight:bold;
+    color:#dcdcdc;
+}
+.form1 form  input{
+	width:600px;
+	height:55px;
+	border:2px solid black;
+	font-size:25px;
+	border-radius:10px;
+}
+
+.form1 form  button{
+	margin-left:200px;
+	width:260px;
+	height:50px;
+	border:2px solid black;
+	font-size:20px;
+    border-radius:10px;
+	background-color:#71AFDE;
+    color:white;
+	font-family:serif;
+	font-weight:bold;
+
+}
+
+
+
+.eventname{
+
+	height:200px;
+color:white;
+border-radius:0px 50px 0px 50px;
+
+margin-top:10px;
+
+font-weight:bold;
+
+	background-repeat:no-repeat;
+
+
+}
+.eventname1{
+	height:200px;
+		background-color:black;
+color:white;
+border-radius:0px 50px 0px 50px;
+opacity:0.7;
+margin-top:10px;
+	font-weight:bold;
+
+}
+.eventname:hover{
+	height:200px;
+		background-color:#dcdcdc;
+border-radius:0px 50px 0px 50px;
+margin-top:10px;
+font-family:serif;
+	font-weight:bold;
+}
+.eventname h2 u:hover{
+		
+font-family:myfont;
+    font-size:40px;
+	font-weight:700;
+}
+.eventname1 h2 u:hover{
+				
+font-family:myfont;
+    font-size:35px;
+	font-weight:700;
+}
+.eventname1:hover{
+	height:200px;
+		background-color:#dcdcdc;
+border-radius:0px 50px 0px 50px;
+margin-top:10px;
+font-family:serif;
+	font-weight:bold;
+}
+.eventname a{
+	margin-left:80px;
+	text-decoration:none;
+	color:white;
+	background-color:black;
+	border: 2px solid black;
+	height:40px;
+	border-radius:10px;
+	}
+
+.eventname1 a{
+	margin-left:80px;
+	text-decoration:none;
+	color:white;
+	background-color:black;
+	border: 2px solid black;
+	height:40px;
+	border-radius:10px;
+}
+.eventname form button{
+	height:50px;
+	width:200px;
+	font-size:25px;
+	font-family:serif;
+	font-weight:bold;
+	margin-left:90px;
+	border:2px;
+	background-color:#dcdcdc;
+		border-radius:20px;
+		border-radius:0px 20px 0px 20px;
+
+}
+.eventname1 form button{
+	height:50px;
+	width:200px;
+	font-size:25px;
+	font-family:serif;
+	font-weight:bold;
+	margin-left:90px;
+	border:2px;
+	background-color:#dcdcdc;
+		border-radius:0px 20px 0px 20px;
+
+}
+.eventname form button:hover{
+	
+	background-color:black;
+color:#dcdcdc;
+}
+.eventname1 form button:hover{
+	
+	background-color:black;
+color:#dcdcdc;
+}
+.logsign{
+	border-radius:10px;
+	background-color:#71AFDE;
+	color:black;
+	
+}

@@ -1,0 +1,15 @@
+Aoash99n.ttf
+Aoash99b.ttf
+Aobud99n.ttf
+Aocha99b.ttf
+Aocha99n.ttf
+Alinga-n.ttf
+Alinga-b.ttf
+offsub-n.ttf
+offash-n.ttf
+offbud-o.ttf
+offjag-n.ttf
+offkos-b.ttf
+offkos-n.ttf
+offsub-b.ttf
+offash-b.ttf

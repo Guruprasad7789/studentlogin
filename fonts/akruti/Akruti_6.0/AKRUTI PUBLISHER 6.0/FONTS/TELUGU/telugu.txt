@@ -1,0 +1,10 @@
+Aktgod-b.ttf
+Aktgod-n.ttf
+Aktsar-b.ttf
+Aktsar-n.ttf
+Akjaya-b.ttf
+Akjaya-n.ttf
+Aktrag-b.ttf
+Aktrag-n.ttf
+Aktsud-n.ttf
+Akvinod.ttf
